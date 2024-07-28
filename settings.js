@@ -4,22 +4,22 @@ const chalk = require('chalk')
 
 //contact details
 global.ownernomer = "923192173398"
-global.ownername = "🐛 MR WASI "
+global.ownername = "Sreejan "
 global.ytname = "YT: Dont have"
 global.socialm = "GitHub: private"
-global.location = "Pakistan, Lahore"
+global.location = "India, Kolkata"
 
-global.ownernumber = '923347748038'  //creator number
-global.ownername = ' MR WASI ' //owner name
-global.botname = 'WASI TECH BUG BOT ' //name of the bot
+global.ownernumber = '917439382677'  //creator number
+global.ownername = ' Sreejan' //owner name
+global.botname = 'I love you' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'WASI'
+global.author = '😶‍🌫️'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "WASI TECH"
+global.wm = "I love you"
 
 //theme link
 global.link = 'https://whatsapp.com'
@@ -30,7 +30,7 @@ global.prefa = ['','!','.','#','&']
 //false=disable and true=enable
 global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
-global.autorecordtype = false //auto typing + recording
+global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = true //auto update bio
 global.anti92 = false //auto block +92 
